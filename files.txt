@@ -1,0 +1,5 @@
+audacity
+flameshot
+lite-xl
+mpv
+pinta
