@@ -1,0 +1,8 @@
+Audacity: Editor de áudio para gravar, cortar, editar e aplicar efeitos sonoros
+Flameshot: Ferramenta de captura de tela com recursos de anotação e edição
+Lite XL: Editor de código leve, rápido e extensível
+MPV: Reprodutor multimídia leve para vídeos e áudios
+Paint (Pinta): Editor de imagens simples para desenhar e fazer edições básicas
+Znote: Aplicativo de anotações para organizar textos e informações
+Hyper: Emulador de terminal moderno, personalizável e baseado em tecnologias web
+QCut: Editor de vídeos com recursos de edição e criação de conteúdo

@@ -2,4 +2,7 @@ audacity
 flameshot
 lite-xl
 mpv
-pinta
+paint
+znote
+hyper
+qcut
